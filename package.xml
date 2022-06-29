@@ -5,4 +5,8 @@
         <members>A152</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>ApexTrigger1</members>
+        <name>ApexTrigger</name>
+    </types>
 </Package>
